@@ -4,8 +4,8 @@
 ## Control:
 | Command  | Action |
 | ------------- | ------------- |
+| Left click  | Cut rope |
 | Right click  | Move camera |
 | Wheel  | Zoom |
-| Left click  | Cut rope |
 | D  | Load view mode |
 | Space  | Pause/Unpause |
